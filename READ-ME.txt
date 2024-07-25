@@ -1,11 +1,17 @@
-  =>  Template Name    : Klean - Cleaning Services Website Template
+# Cleaning Service Website
 
-  =>  Template Link    : https://htmlcodex.com/cleaning-services-website-template-free
+This repository contains the code for a website promoting a cleaning service agency.
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+## Features
 
-  =>  Template Author  : HTML Codex
+Responsive design for optimal viewing on all devices
+Clear and concise information about your cleaning services
+Easy-to-use contact form
+Eye-catching visuals showcasing your cleaning expertise
+## Technologies Used
 
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+HTML
+CSS
+JavaScript (optional, if used)
+Bootstrap
+## Getting Started
