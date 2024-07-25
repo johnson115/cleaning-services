@@ -1,4 +1,5 @@
 # Cleaning Service Website
+![image](https://github.com/user-attachments/assets/c4b85592-30ae-4d27-aa71-7ab543a4a6ed)
 
 This repository contains the code for a website promoting a cleaning service agency.
 
