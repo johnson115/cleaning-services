@@ -12,6 +12,6 @@ Eye-catching visuals showcasing your cleaning expertise
 
 HTML
 CSS
-JavaScript (optional, if used)
+JavaScript 
 Bootstrap
 ## Getting Started
